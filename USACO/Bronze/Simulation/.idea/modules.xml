@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Prefix-Sums.iml" filepath="$PROJECT_DIR$/.idea/Prefix-Sums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simulation.iml" filepath="$PROJECT_DIR$/Simulation.iml" />
     </modules>
   </component>
 </project>
